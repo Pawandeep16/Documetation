@@ -516,3 +516,19 @@ def get_over_due():
     // }
   },
 ```
+## Displaying Fees different head-wise like tution fee, Development fee
+
+ Goto Fee list under Education domain.
+- Under list view option select report view, Select Add group option here select Fee Category under Fee Component
+- Then Add sum Filter and in third field Select Amount or grand total or outstanding.
+- Now you are able to see all fee collected head wise like Tution Fee, Development Fee, Bus Fee.
+
+##school leaving certificate
+
+- Go to the Print Format List, click on New.
+- Enter a name and select a DocType for which the Print Format is to be used.
+- For school leaving certificate we will choose doctype student and name of the print as school leaving certificate.
+- The module for which it should apply will be selected automatically.
+- To customize the certificate click on edit format.
+- Here we can drag and drop fields or custom html from the sidebar to the page and vice versa. 
+- Then added the custom 
