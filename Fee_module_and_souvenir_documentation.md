@@ -533,7 +533,16 @@ def get_over_due():
 - Here we can drag and drop fields or custom html from the sidebar to the page and vice versa. 
 - Then added the custom 
 
+## Auto-Repeat 
+Auto-repeat Tool is very usefull for repeating docs on the basis of days month years quaterly 
+- Go to Home > Settings > Automation > Auto Repeat > New.
+- Select the Reference Document Type, like Journal Entry or Sales Invoice, etc.
+- Select the Reference Document. This is the individual document that you want to repeat.
+- Set the Start Date and End Date (optional). If End Date is not specified, recurring documents will be created, unless the Auto Repeat is disabled.
+- Set the Frequency for creating repeatable documents (Daily, Weekly, Monthly, Quarterly, Half-yearly, Yearly).
+- Save.
 
+This will and teh doctype on the basis of frequency 
 ## Souvenir App
 
 ### Validation Of Form
