@@ -700,5 +700,5 @@ In the file /souvenir_form/souvenir_form/web_form/souvenir/souvenir.js
 
 To install the app run the commands
 
-- bech get-app link to repo of app https://github.com/Pawandeep16/NewSov.git
+- bech get-app app https://github.com/Pawandeep16/NewSov.git
 - bench --site sitename install-app appname
